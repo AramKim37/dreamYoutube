@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  height: 4rem;
+  padding: 0.5rem 1em;
+  background: black;
+  color: white;
+}
+.input {
+  width: 70%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: 1em;
+}
+.button {
+  background-color: white;
+  margin-left: 10px;
+}
+
+.img {
+  width: 100px;
+  height: 60px;
+}
+
+.search {
+  width: 40px;
+  height: 40px;
+}
